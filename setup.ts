@@ -1,0 +1,2 @@
+require('chromedriver');
+require('geckodriver');
